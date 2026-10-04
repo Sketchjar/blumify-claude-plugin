@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "blumify",
+  "description": "Blumify for Claude Code: transcripts of YouTube videos and podcast episodes.",
+  "owner": {
+    "name": "Blumify",
+    "email": "gaurav@blumify.io"
+  },
+  "plugins": [
+    {
+      "name": "blumify",
+      "description": "Transcripts, summaries and chapters of YouTube videos and podcast episodes, in your Blumify workspace. Ask questions about a recording, translate its notes, transcribe whole playlists, and follow creators to catch their new episodes.",
+      "category": "productivity",
+      "source": "./",
+      "homepage": "https://blumify.io/developers"
+    }
+  ]
+}

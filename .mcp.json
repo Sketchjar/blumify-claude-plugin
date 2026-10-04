@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "blumify": {
+      "type": "http",
+      "url": "https://blumify.io/api/media/v1/mcp"
+    }
+  }
+}

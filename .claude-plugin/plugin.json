@@ -1,0 +1,14 @@
+{
+  "name": "blumify",
+  "description": "Transcripts, summaries and chapters of YouTube videos and podcast episodes, in your Blumify workspace. Ask questions about a recording, translate its notes, transcribe whole playlists, and follow creators to catch their new episodes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Blumify",
+    "email": "gaurav@blumify.io",
+    "url": "https://blumify.io"
+  },
+  "homepage": "https://blumify.io/developers",
+  "repository": "https://github.com/Sketchjar/blumify-claude-plugin",
+  "license": "MIT",
+  "keywords": ["youtube", "podcast", "transcript", "summary", "chapters", "subtitles", "playlist", "mcp"]
+}
