@@ -13,9 +13,11 @@ Everything you make is saved in your [Blumify workspace](https://blumify.io/app)
 ## Install (Claude Code)
 
 ```
-/plugin marketplace add Sketchjar/blumify-claude-plugin
+/plugin marketplace add https://github.com/Sketchjar/blumify-claude-plugin.git
 /plugin install blumify@blumify
 ```
+
+If you use SSH with GitHub, the short form `/plugin marketplace add Sketchjar/blumify-claude-plugin` works too.
 
 Then run `/mcp`, choose **blumify** and sign in in your browser, with an emailed code or Google. A new Blumify account is free and comes with 30 AI credits.
 
